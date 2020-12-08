@@ -29,7 +29,7 @@ Boss(Stevey)
 The Prolog clauses are: 
 ```prolog
 competitor(sumsum, appy).
- smart_phone_tech(galactical-s3).
+smart_phone_tech(galactical-s3).
 product_of(galactical-s3, sumsum).
 stolen_by(galactical-s3, stevey).
 boss(stevey).
@@ -40,6 +40,6 @@ unethical(X):- boss(X), stolen_by(Y, X), business(Y), product_of(Y, Z), rival(Z)
 
 Using the above clauses, Stevey is shown to be unethical.  
 The tracking is as below:   
-
+<img src = "https://github.com/StephanieMussi/Smartphone_Natural_Language_First_Order_Logic_Prolog/blob/main/Figures/track.png" width = 609 height = 319>  
 
 
