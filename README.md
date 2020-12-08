@@ -1,7 +1,7 @@
 # Smartphone_Natural_Language_First_Order_Logic_Prolog
 In this project, the natrual language is translated to First-Order-Logic, and then coded as Prolog clauses.  
 
-## Natural Language Statement
+## Natural Language
 sumsum, a competitor of appy, developed some nice smart phone technology called galacticas3, all of which was stolen by stevey, who is a boss. It is unethical for a boss to steal business from rival companies. A competitor of appy is a rival. Smart phone technology is business.  
 
 From the above description, these statements can be extracted:  
